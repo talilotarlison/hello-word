@@ -13,4 +13,4 @@
 
 # hello-word
 
-## 🏷️ Meu primeiro projeto hello word! em html basico e , feito no curso em vídeo.
+## 🏷️ Meu primeiro projeto hello word! em html basico e puro , feito no curso em vídeo.
